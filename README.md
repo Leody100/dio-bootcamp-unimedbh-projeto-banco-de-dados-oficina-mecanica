@@ -5,8 +5,8 @@
 
 
 
-Modelagem de bancos de dados OFICINA MECANICA baseado no Projeto proposto
-no Bootcamp Database Experience criado na Plataforma [Dio.me](https://www.dio.me/) com a orientação da Especialista Juliana Mascarenhas - Data Scientist, DIO.
+Modelagem de bancos de dados do Zero OFICINA MECANICA baseado no Projeto proposto
+no Bootcamp Geração Tech Unimed-BH - Ciência de Dados criado na Plataforma [Dio.me](https://www.dio.me/) com a orientação da Especialista Juliana Mascarenhas - Data Scientist, DIO.
 
 ## Projeto:
 
